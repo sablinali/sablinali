@@ -20,9 +20,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malexgg&show_icons=true&locale=en&layout=compact" alt="malexgg" /></p>
 
-<a href="https://www.codewars.com/users/MaAGG" target="_blank"><img src="https://www.codewars.com/users/MaAGG/badges/small" alt="codewars badges" /></a>
+
+
 
 
 
