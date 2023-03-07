@@ -1,4 +1,4 @@
-### “DigitALL: Innovation and technology for gender equality” :purple_heart:
+### :purple_heart: “DigitALL: Innovation and technology for gender equality” :purple_heart:
 
 
 
