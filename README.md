@@ -7,8 +7,7 @@
 
 
 
-<iframe src="https://giphy.com/embed/Ca0ofrjHU5g1l2nQf2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/women-feminist-power-Ca0ofrjHU5g1l2nQf2">via GIPHY</a></p>
-
+![giphy-8M](https://user-images.githubusercontent.com/116072654/223287948-c4afddba-87ab-461b-8f0b-9ad65f7a0be8.gif)
 
 
 
