@@ -1,8 +1,7 @@
+### Hi, I'm Sablina 👋
+
+
 ### :purple_heart: “DigitALL: Innovation and technology for gender equality” :purple_heart:
-
-
-
-
 
 
 
