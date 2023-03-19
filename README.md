@@ -23,7 +23,7 @@
  [![GitHub Streak](https://streak-stats.demolab.com?user=sablinali&theme=aura)](https://git.io/streak-stats)
   
   
-  ![Sablina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sablinali&theme=dark&aura_icons=true)
+  ![Sablina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sablinali&theme=aura&show_icons=true)
 
 
 
