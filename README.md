@@ -23,7 +23,7 @@
  [![GitHub Streak](https://streak-stats.demolab.com?user=sablinali&theme=aura)](https://git.io/streak-stats)
   
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sablinali&theme=aura_icons=true)
+  ![Sablinali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sablinali&theme=aura_icons=true)
 
 
 
