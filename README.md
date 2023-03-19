@@ -20,7 +20,7 @@
 <a href="https://www.figma.com/" target="_blank"><a href="https://www.adobe.com/es/products/xd.html" target="_blank"><a href="https://trello.com/es" target="_blank"><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a><a href="https://swagger.io/docs/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" width="40" height="40"/></a>
   
   
- [![GitHub Streak](https://streak-stats.demolab.com?user=sablinali&theme=violet-punch)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=sablinali&theme=aura)](https://git.io/streak-stats)
 
 
 
