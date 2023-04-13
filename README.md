@@ -1,7 +1,7 @@
 ### Hi, I'm Sablina 👋
 
 
-### :purple_heart:2023 “DigitALL: Innovation and technology for gender equality” :purple_heart:
+### :sparkles: “We are all made of stardust” :sparkles: :sparkling_heart:
 
 
 
