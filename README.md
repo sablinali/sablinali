@@ -6,7 +6,7 @@
 
 
 
-![giphy-8M](https://user-images.githubusercontent.com/116072654/223287948-c4afddba-87ab-461b-8f0b-9ad65f7a0be8.gif)
+![universe](https://user-images.githubusercontent.com/116072654/231903334-8bd73a98-d3e4-4569-a35d-64fcfafc2e48.jpeg)
 
 
 <h3 align="left">Technologies:</h3>
