@@ -1,6 +1,6 @@
 ### Hi, I'm Sablina 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1000&color=F72DF6&width=440&height=60&lines=I'm+a+Full+Stack+Junior+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1000&color=F72DF6&width=440&height=60&lines=Full+Stack+Junior+Web+Developer)](https://git.io/typing-svg)
 
 
 ### :sparkles: “We are all made of stardust” :sparkles: :sparkling_heart:
