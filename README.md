@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1000&color=F72DF6&width=500&height=55&lines=Full+Stack+Junior+Web+Developer)](https://git.io/typing-svg)
 
 
+
 ![gif_girl-code-1626267764](https://github.com/sablinali/sablinali/assets/116072654/ccad823a-0863-415f-823d-99b26ab632a7)
 
 
@@ -25,7 +26,7 @@
   
   ![Sablina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sablinali&theme=aura&show_icons=true)
 
-
+![Codewars Badgets](https://www.codewars.com/users/sablinali/badges/large)
 
 
 <!--
